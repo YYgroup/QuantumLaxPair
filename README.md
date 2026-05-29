@@ -169,6 +169,17 @@ Vendored QSVT implementation.  This directory is modified from
 [lbwei1016/QSVT-implementation](https://github.com/lbwei1016/QSVT-implementation).
 See `qsvt/README.md` for attribution details.
 
+## License
+
+The original code in this repository is released under the MIT License; see
+`LICENSE`.
+
+The vendored `qsvt/` directory is excluded from that license statement.  It is
+modified from [lbwei1016/QSVT-implementation](https://github.com/lbwei1016/QSVT-implementation),
+and no upstream license was identified when this repository was prepared.  Users
+should verify the upstream licensing status before reusing or redistributing
+that directory.
+
 ## Notes
 
 - The QSVT solver paths are experimental and require statevector simulation.
