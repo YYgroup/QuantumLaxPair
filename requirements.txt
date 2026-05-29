@@ -1,0 +1,12 @@
+numpy==2.2.6
+scipy==1.15.3
+joblib==1.5.3
+tqdm==4.67.3
+qiskit==2.2.1
+matplotlib==3.10.6
+
+# Optional: needed only for qsvt.helper.cvx_poly_coef.
+# cvxpy
+
+# Optional: needed only to open demo.ipynb outside an IDE with notebook support.
+# notebook
